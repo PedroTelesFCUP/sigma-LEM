@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-2705-7077"
 date-released: 2025-06-27     # adjust if needed
 repository-code: "https://github.com/<your-handle>/sigma-LEM"
-license: MIT
+license: GPL v3
 doi: 10.5281/zenodo.15734277
 
 preferred-citation:
