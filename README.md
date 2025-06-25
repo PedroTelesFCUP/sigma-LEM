@@ -1,8 +1,7 @@
 # σ-LEM – Analytical Local Effect Model for AuNP Radiosensitisation
 [![arXiv](https://img.shields.io/badge/arXiv-2506.06671-b31b1b.svg)](https://arxiv.org/abs/2506.06671)  
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](#)  
-[![DOI](https://img.shields.io/badge/DOI-Code--Pending-lightgrey.svg)](#)<!-- TODO: replace after Zenodo DOI -->
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734277.svg)](https://doi.org/10.5281/zenodo.15734277) 
 > Reference implementation & reproducibility notebooks for  
 > **“An analytical model for gold nanoparticle radiosensitisation”**  
 > P. Teles, *arXiv : 2506.06671 (2025)*  
