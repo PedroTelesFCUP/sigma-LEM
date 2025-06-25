@@ -83,10 +83,10 @@ pre-print:
 @software{teles_sigmaLEM,
   author       = {Pedro Teles},
   title        = {{σ-LEM}: Log-normal Analytical Local Effect Model},
-  version      = {v1.0.0},
+  version      = {v1.0.2},
   date         = {2025},
-  doi          = {10.5281/zenodo.XXXXXXX},   % TODO: replace after Zenodo release
-  url          = {https://github.com/<your-handle>/sigma-LEM}
+  doi          = {10.5281/zenodo.15734277},  
+  url          = {[https://github.com/PedroTelesFCUP/sigma-LEM]}
 }
 
 @article{teles_2025,
