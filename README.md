@@ -29,7 +29,7 @@ notebooks/
  ├─ Survival_curves-truncated.ipynb   # Fig. 3-4, survival curves w/ truncation
  ├─ DEF80-truncated.ipynb       # DEF_80 calculations (Tab. C.6-C.8)
  └─ FIT_results-truncated.ipynb # α′, β′ fits (Tab. 4-5)
-LICENSE                         # MIT
+LICENSE                         # GPL v3
 CITATION.cff                    # citation metadata
 requirements.txt                # tested package versions
 README.md                       # you are here
